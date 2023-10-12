@@ -1,0 +1,3 @@
+.env file
+
+MONGO_URL= PORT= SECRET_KEY=
